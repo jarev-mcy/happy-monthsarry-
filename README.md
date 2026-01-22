@@ -49,9 +49,14 @@
     }
 
     #love-letter {
-      margin-top: 20px;
-      color: #000000;
-      font-size: 18px;
+    text-align: left;       /* easier to read */
+    word-wrap: break-word;  /* prevents horizontal scroll */
+    padding: 10px;          /* space inside the letter box */
+}
+
+#love-letter p {
+    margin-bottom: 15px;    /* space between paragraphs */
+      };
     }
 
     .hidden {
