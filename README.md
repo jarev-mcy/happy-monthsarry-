@@ -50,7 +50,7 @@
 
     #love-letter {
       margin-top: 20px;
-      color: #8F00FF;
+      color: #000000;
       font-size: 18px;
     }
 
