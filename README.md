@@ -129,5 +129,3 @@ function login() {
         alert('Invalid name! Only princess can log in.');
 
     }
-
-}
