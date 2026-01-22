@@ -1,6 +1,4 @@
-​
-​
-CTYPE html>
+CTYPE html>index.html
 ​
 <html lang="en">
 ​
@@ -43,3 +41,93 @@ CTYPE html>
 </body>
 ​
 </html>
+
+body {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #ffe6e6;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+h1 { color: #ff4d4d; }
+
+input {
+
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 200px;
+}
+
+button {
+
+     padding0px 20px;
+
+    background-color: #8b4513;
+
+    color: #fff;
+
+    border: none;
+
+    border-radius: 5px;
+
+    cursor: pointer;
+
+}
+
+button:hover {
+
+    background-color: #a0522d;
+}
+
+#love-letter {
+
+    margin-top: 20px;
+
+    color: #8b4513;
+
+    font-size: 18px;
+
+}
+
+.hidden {
+
+    display: none;
+
+}5px;
+
+    cursor: pointer;
+
+}
+
+button:hover {
+
+function login() {
+
+    const name = document.getElementById('name').value;
+
+    if (name === 'princess') {
+
+        document.getElementById('login-form').classList.add('hidden');
+
+        document.getElementById('love-letter').classList.remove('hidden');
+
+    } else {
+
+        alert('Invalid name! Only princess can log in.');
+
+    }
+
+}
