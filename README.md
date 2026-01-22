@@ -12,7 +12,7 @@
       justify-content: center;
       align-items: center;
       height: 100vh;
-      background-color: #ffe6e6;
+      background-color: #A47DAB;
       font-family: 'Arial', sans-serif;
     }
 
