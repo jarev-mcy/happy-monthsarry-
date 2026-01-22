@@ -70,7 +70,7 @@
   <div class="container">
     <h1>Login</h1>
 
-    <form id="login-form">
+   <form id="login-form">
       <input type="text" id="name" placeholder="Enter your name">
       <br><br>
       <button type="button" onclick="login()">Log In</button>
