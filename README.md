@@ -42,6 +42,8 @@ CTYPE html>index.html
 ​
 </html>
 
+
+ <style>
 body {
 
     display: flex;
@@ -91,7 +93,10 @@ button:hover {
 
     background-color: #a0522d;
 }
+     </style>
+</head>
 
+<script>
 #love-letter {
 
     margin-top: 20px;
@@ -129,3 +134,8 @@ function login() {
         alert('Invalid name! Only princess can log in.');
 
     }
+    </script>
+
+    
+</body>
+</html>
