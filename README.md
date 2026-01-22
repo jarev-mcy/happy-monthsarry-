@@ -17,7 +17,7 @@
     }
 
     .container {
-      background: white;
+      background: deep violet;
       padding: 30px;
       border-radius: 10px;
       box-shadow: 0 4px 8px rgba(0,0,0,0.1);
@@ -50,7 +50,7 @@
 
     #love-letter {
       margin-top: 20px;
-      color: #7F00FF;
+      color: #8F00FF;
       font-size: 18px;
     }
 
