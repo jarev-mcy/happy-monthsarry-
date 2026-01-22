@@ -25,7 +25,7 @@
     }
 
     h1 { 
-      color: #ff4d4d; 
+      color: ##560591; 
     }
 
     input {
@@ -38,7 +38,7 @@
     button {
       padding: 10px 20px;
       background-color: #8b4513;
-      color: #fff;
+      color: #76479e;
       border: none;
       border-radius: 5px;
       cursor: pointer;
@@ -88,7 +88,7 @@ happy first monthsarry love. thank you for noticing me thank you for staying, th
     function login() {
       const name = document.getElementById('name').value;
 
-      if (name === 'princess') {
+      if (name === 'princess roliann abrentes') {
         document.getElementById('login-form').classList.add('hidden');
         document.getElementById('love-letter').classList.remove('hidden');
       } else {
