@@ -50,7 +50,7 @@
 
     #love-letter {
       margin-top: 20px;
-      color: #E6E6FA;
+      color: ##7F00FF;
       font-size: 18px;
     }
 
@@ -80,7 +80,7 @@ i want to be the person you lean on when you tired the person you cry to when yo
 you are my favorite notification, my favorite name to read, my favorite voice to hear, for you make my normal days special and my heavy days lighter even with distance, you make me feel loved, chosen, home. sometimes i just look at my phone and smile like idiot, then realize its you, it's because of you always you naman eh and lalove, i cant stop thinking about our future, about how we laugh together, rant together, cry together, silly fights, inside jokes, late night talks, every little thing i want all of that with you, forever i want to make you happy, i want to be your safe place, i want to be the reason you smile even if your day bad, i want to be your everything,like you already became mine
 ​
 ​
-happy first monthsarry love. thank you for noticing me thank you for staying, thank you for being my girl I always loveeeyouuu so much, more than these words can really say, more than i can ever type, more than i can ever show and lalove, i want more months, more years, more us.happy first monthsarry, my love lets make every month better, every day special, every moment ours. </p>
+happy first monthsarry love. thank you for noticing me thank you for staying, thank you for being my girl I always loveeeyouuu so much, more than these words can really say, more than i can ever type, more than i can ever show and lalove, i want more months, more years, more us.happy first monthsarry, my love lets make every month better, every day special, every moment ours
     </div>
   </div>
 
