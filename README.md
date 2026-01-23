@@ -71,7 +71,7 @@
     <h1>Login</h1>
 
    <form id="login-form">
-      <input type="text" id="name" placeholder="Enter your name">
+      <input type="text" id="princess" placeholder="princess">
       <br><br>
       <button type="button" onclick="login()">Log In</button>
     </form>
@@ -88,16 +88,17 @@
 
 <p>i want to be the person you lean on when you tired the person you cry to when you sad the person you run to when your world heavy dont keep things inside okay? tell me what happen, tell me who hurt you, tell me what make your heart heavy let me hold your heart let me share your pain i promise i do my best to make it lighter i promise i try to make you smile even when you dont feel like it,i promise i always choose you</p>
 
-<p>you are my favorite notification, my favorite name to read, my favorite voice to hear, for you make my normal days special and my heavy days lighter even with distance, you make me feel loved, chosen, home. sometimes i just look at my phone and smile like idiot, then realize it's you, it's because of you always you naman eh and lalove, i cant stop thinking about our future, about how we laugh together, rant together, cry together, silly fights, inside jokes, late night talks, every little thing i want all of that with you, forever i want to make you happy, i want to be your safe place, i want to be the reason you smile even if your day bad, i want to be your everything,like you already became mine</p>
+<p>you are my favorite notification, my favorite name to read, my favorite voice to hear, for you make my normal days special and my heavy days lighter even with distance, you make me feel loved, chosen, home. sometimes i just look ataty phone and smile like idiot, then realize it's you, it's because of you always you naman eh and lalove, i cant stop thinking about our future, about how we laugh together, rant together, cry together, silly fights, inside jokes, late night talks, every little thing i want all of that with you, forever i want to make you happy, i want to be your safe place, i want to be the reason you smile even if your day bad, i want to be your everything,like you already became mine</p>
 
-<p>happy first monthsarry love. thank you for noticing me thank you for staying, thank you for being my girl I always loveeeyouuu so much, more than these words can really say, more than i can ever type, more than i can ever show and lalove, i want more months, more years, more us.happy first monthsarry, my love lets make every month better, every day special, every moment ours</p>
+<p>happy first monthsarry love. thank you for noticing me
+  atyouuu you for staying, thank you for being my girl I always loveeeyouuu so much, more than these words can really say, more than i can ever type, more than i can ever show and lalove, i want more months, more years, more us.happy first monthsarry, my love lets make every month better, every day special, every moment ours</p>
 
 </div>
   
 
   <script>
     function login() {
-      const name = document.getElementById('name').value;
+      const name = document.getElementById('princess').value;
 
       if (name === 'princess') {
         document.getElementById('login-form').classList.add('hidden');
